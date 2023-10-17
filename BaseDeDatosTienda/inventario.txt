@@ -1,0 +1,10 @@
+111	leche 1l	4032.0	89
+222	cereal 500g	17055.1	75
+333	yogurt 1l	10300.2	11
+444	helado 2L	14950.6	19
+555	alimento para perro 20kg	9855.4	10
+666	shampoo	19000.0	23
+777	papel higienico 4 rollos	8064.0	30
+888	jabon protex	9450.3	30
+999	coca cola 3L pack x2	11212.6	10
+001	arroz	2500.0	184
